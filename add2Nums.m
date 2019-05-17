@@ -2,4 +2,4 @@
 
 function result = add2Nums(a, b)
 
-result = a+b;
+result = a+b; % get the sum of a and b
