@@ -1,4 +1,4 @@
-%% add two numbers and get the sum
+%% add two numbers (a&b) and get the sum ¡°result¡±
 
 function result = add2Nums(a, b)
 
